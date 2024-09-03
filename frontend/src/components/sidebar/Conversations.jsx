@@ -4,7 +4,6 @@ import { getRandomEmoji } from '../../utils/emojis.js';
 
 const Conversations = () => {
   const { loading, conversations } = useGetConversations();
-  console.log("Conversations: ", conversations)
 
   return (
     <div className='py-2 flex-col overflow-auto'>
