@@ -92,5 +92,3 @@ We welcome contributions to improve the CUCHAT-APP. Please follow these guidelin
 - [MongoDB](https://www.mongodb.com) for database management
 
 ---
-
-Feel free to modify this template to better fit your project!
