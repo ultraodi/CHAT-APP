@@ -1,5 +1,3 @@
-Here's a README template for your CUCHAT-APP project. You can replace the placeholders with actual information or screenshots later:
-
 ---
 
 # CUCHAT-APP
