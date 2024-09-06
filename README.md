@@ -69,8 +69,6 @@ This will start the server and allow you to begin chatting with friends.
 
 ## Screenshots
 
-![Placeholder](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)
-
 ![image](https://github.com/user-attachments/assets/5a1b372b-b3c0-489e-8f7e-f1e0589b51a7)
 
 ![image](https://github.com/user-attachments/assets/5fd7170a-f33f-48b3-8f6a-fe4c64c77a74)
