@@ -78,7 +78,7 @@ This will start the server and allow you to begin chatting with friends.
 
 ## Contributing
 
-We welcome contributions to improve the CUCHAT-APP. Please follow these guidelines:
+Contributions are welcome to improve the CUCHAT-APP. Please follow these guidelines:
 
 1. **Fork the Repository**: Create a personal copy of the repository on GitHub.
 2. **Create a Branch**: Develop your feature or fix on a separate branch.
